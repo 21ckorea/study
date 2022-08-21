@@ -67,3 +67,4 @@ fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아�
  -. password에 토큰을 넣으면 됨
  -. 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
 
+인교 테스트

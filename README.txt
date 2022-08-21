@@ -8,3 +8,10 @@ Git 폴더 설정 방법
  -. git config --global user.email "seingyo@naver.com"
  -. git config --global user.name "Ryan"
 
+첫 커밋 테스트
+1. 커밋
+ -. git add README.txt 
+2. 해당 커밋에 설명 추가
+ -. git commit -m "첫 커밋 테스트"
+
+

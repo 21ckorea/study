@@ -62,8 +62,7 @@ fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아�
  -. git push origin master
  -. origin이라는 미리 정의한 원격저장소에 master 브랜치로 올리겠다
  -. name, password를 넣어야 되는데 name은 github에 찍힐 이름이고
- -. 패스워드는 github에 가입한 패스워드인데 패스워드 방식에서 토근 방식으로 바
-뀜
+ -. 패스워드는 github에 가입한 패스워드인데 패스워드 방식에서 토근 방식으로 바뀜
  -. https://hyeo-noo.tistory.com/184 사이트 보고 따라해서 토큰 만든 후
  -. password에 토큰을 넣으면 됨
  -. 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
